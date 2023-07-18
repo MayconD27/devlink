@@ -21,7 +21,7 @@
   --surface-color: #0000000d;
   --surface-color-hover: #00000005;
   --highlight-color: #00000061;
-  --switch-bg-url: url(./assets/sun.svg);
+  --switch-bg-url: url(./img/sun.svg);
 }
 
 body {
